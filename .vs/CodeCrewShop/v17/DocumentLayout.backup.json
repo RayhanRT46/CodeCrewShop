@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ISDB\\Final Project\\CodeCrewShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1369E300-E30C-4887-AFD7-30E34E5B0563}|CodeCrewShop.csproj|e:\\isdb\\final project\\codecrewshop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1369E300-E30C-4887-AFD7-30E34E5B0563}|CodeCrewShop.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1369E300-E30C-4887-AFD7-30E34E5B0563}|CodeCrewShop.csproj|e:\\isdb\\final project\\codecrewshop\\controllers\\producttypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1369E300-E30C-4887-AFD7-30E34E5B0563}|CodeCrewShop.csproj|solutionrelative:controllers\\producttypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1369E300-E30C-4887-AFD7-30E34E5B0563}|CodeCrewShop.csproj|e:\\isdb\\final project\\codecrewshop\\models\\product\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1369E300-E30C-4887-AFD7-30E34E5B0563}|CodeCrewShop.csproj|solutionrelative:models\\product\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1369E300-E30C-4887-AFD7-30E34E5B0563}|CodeCrewShop.csproj|e:\\isdb\\final project\\codecrewshop\\controllers\\cetegoryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1369E300-E30C-4887-AFD7-30E34E5B0563}|CodeCrewShop.csproj|solutionrelative:controllers\\cetegoryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1369E300-E30C-4887-AFD7-30E34E5B0563}|CodeCrewShop.csproj|e:\\isdb\\final project\\codecrewshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1369E300-E30C-4887-AFD7-30E34E5B0563}|CodeCrewShop.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1369E300-E30C-4887-AFD7-30E34E5B0563}|CodeCrewShop.csproj|e:\\isdb\\final project\\codecrewshop\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1369E300-E30C-4887-AFD7-30E34E5B0563}|CodeCrewShop.csproj|solutionrelative:controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1369E300-E30C-4887-AFD7-30E34E5B0563}|CodeCrewShop.csproj|e:\\isdb\\final project\\codecrewshop\\models\\product\\productattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1369E300-E30C-4887-AFD7-30E34E5B0563}|CodeCrewShop.csproj|solutionrelative:models\\product\\productattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1369E300-E30C-4887-AFD7-30E34E5B0563}|CodeCrewShop.csproj|e:\\isdb\\final project\\codecrewshop\\models\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1369E300-E30C-4887-AFD7-30E34E5B0563}|CodeCrewShop.csproj|solutionrelative:models\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1369E300-E30C-4887-AFD7-30E34E5B0563}|CodeCrewShop.csproj|e:\\isdb\\final project\\codecrewshop\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1369E300-E30C-4887-AFD7-30E34E5B0563}|CodeCrewShop.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CetegorysController.cs",
+              "DocumentMoniker": "E:\\ISDB\\Final Project\\CodeCrewShop\\Controllers\\CetegorysController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CetegorysController.cs",
+              "ToolTip": "E:\\ISDB\\Final Project\\CodeCrewShop\\Controllers\\CetegorysController.cs",
+              "RelativeToolTip": "Controllers\\CetegorysController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T11:45:19.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\ISDB\\Final Project\\CodeCrewShop\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "E:\\ISDB\\Final Project\\CodeCrewShop\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:13:43.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductAttribute.cs",
+              "DocumentMoniker": "E:\\ISDB\\Final Project\\CodeCrewShop\\Models\\Product\\ProductAttribute.cs",
+              "RelativeDocumentMoniker": "Models\\Product\\ProductAttribute.cs",
+              "ToolTip": "E:\\ISDB\\Final Project\\CodeCrewShop\\Models\\Product\\ProductAttribute.cs",
+              "RelativeToolTip": "Models\\Product\\ProductAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:22:58.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\ISDB\\Final Project\\CodeCrewShop\\Models\\Product\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product\\Product.cs",
+              "ToolTip": "E:\\ISDB\\Final Project\\CodeCrewShop\\Models\\Product\\Product.cs",
+              "RelativeToolTip": "Models\\Product\\Product.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAA1wCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:22:46.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "E:\\ISDB\\Final Project\\CodeCrewShop\\Models\\Product\\ProductType.cs",
+              "RelativeDocumentMoniker": "Models\\Product\\ProductType.cs",
+              "ToolTip": "E:\\ISDB\\Final Project\\CodeCrewShop\\Models\\Product\\ProductType.cs",
+              "RelativeToolTip": "Models\\Product\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T11:30:05.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "E:\\ISDB\\Final Project\\CodeCrewShop\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BrandsController.cs",
+              "ToolTip": "E:\\ISDB\\Final Project\\CodeCrewShop\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "Controllers\\BrandsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwCcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T11:21:20.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\ISDB\\Final Project\\CodeCrewShop\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\ISDB\\Final Project\\CodeCrewShop\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T11:26:36.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductTypesController.cs",
+              "DocumentMoniker": "E:\\ISDB\\Final Project\\CodeCrewShop\\Controllers\\ProductTypesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductTypesController.cs",
+              "ToolTip": "E:\\ISDB\\Final Project\\CodeCrewShop\\Controllers\\ProductTypesController.cs",
+              "RelativeToolTip": "Controllers\\ProductTypesController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T11:21:20.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "E:\\ISDB\\Final Project\\CodeCrewShop\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "E:\\ISDB\\Final Project\\CodeCrewShop\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAwwAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T11:21:22.602Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
