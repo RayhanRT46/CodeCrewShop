@@ -1,0 +1,6 @@
+﻿//Ak pc theke onno pc te nile ai cmd dite hoi
+Unblock-File -Path "E:\Rayhan\CCP\CodeCrewShop\CodeCrewShop\.config\dotnet-tools.json"
+dotnet tool restore
+dotnet ef migrations add InitialCreate
+dotnet ef database update
+dotnet nuget locals all --clear
