@@ -7,6 +7,14 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/Dotnet.gitignore
 
+# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+bin/
+obj/
+
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
